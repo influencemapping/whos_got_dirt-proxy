@@ -6,8 +6,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     multi_json (1.11.2)
     multipart-post (2.0.0)
-    rack (1.6.4)
-    rack-protection (1.5.3)
+    rack (1.6.10)
+    rack-protection (1.5.5)
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -35,4 +35,4 @@ DEPENDENCIES
   sinatra-cross_origin
 
 BUNDLED WITH
-   1.11.2
+   1.16.2

@@ -1,6 +1,5 @@
 # Who's got dirt? CSV Proxy
 
-[![Dependency Status](https://gemnasium.com/influencemapping/whos_got_dirt-proxy.png)](https://gemnasium.com/influencemapping/whos_got_dirt-proxy)
 [![Code Climate](https://codeclimate.com/github/influencemapping/whos_got_dirt-proxy.png)](https://codeclimate.com/github/influencemapping/whos_got_dirt-proxy)
 
 This server forwards requests to the [Who's got dirt? federated search API for influence data](https://github.com/influencemapping/whos_got_dirt-server/) and returns responses as CSV.
